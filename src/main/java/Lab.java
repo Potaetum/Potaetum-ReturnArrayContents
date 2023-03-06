@@ -25,7 +25,7 @@ public class Lab {
      * After completing the problem, I recommend using your IDE's debugger to walk through the loop
      * goes through to help you visualize the values changing, as understanding this process is critical for all future
      * coding challenges.
-     * gitpooooooood
+     * gitpooooooood come onnnnnnnnnnnn
      *
      * @param nums the array to be manipulated.
      * @return a string representation of all values of nums, with the values separated by spaces.
